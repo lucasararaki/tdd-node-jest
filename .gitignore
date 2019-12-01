@@ -1,0 +1,3 @@
+node_modules
+**/utils/database.sqlite
+__tests__/coverage
